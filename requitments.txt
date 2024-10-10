@@ -1,6 +1,4 @@
 mediapipe==0.10.14
-cvzone==1.6.1
+cvzone
 opencv-python==4.10.0.84
-PyQt5==5.15.6
-PyQt5-Qt5==5.15.14
-PyQt5_sip==12.15.0
+PyQt5
